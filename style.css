@@ -837,6 +837,7 @@ section {
 
 /* cookies style starts */
 .cookies {
+    display: none;
     opacity: 0;
     padding: 30.5px;
     width: 90%;
